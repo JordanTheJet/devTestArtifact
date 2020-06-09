@@ -1,0 +1,1 @@
+In this folder put in DevTest Labs Artifacts for use for VM configuration automation.
