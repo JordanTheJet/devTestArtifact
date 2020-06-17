@@ -17,8 +17,7 @@
       "domainAdminPassword": {
         "type": "string",
         "displayName": "Domain join password",
-        "description": "The password for the domain join user account.",
-        "controlType": "passwordBox"
+        "description": "The password for the domain join user account."
       },
       "domainToJoin": {
         "type": "string",
